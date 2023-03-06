@@ -12,26 +12,26 @@ Each name is given with the reference where it was first used.
 
 | Current name | Previous name(s) |
 | --- | --- |
-| cas1 [1] | - |
+| cas1 [1] | cas1a [2], cas1b [2] |
 | cas2 [1] | - |
 | cas3 [1] | - |
-| cas4 [1] | csa1 [?] |
-| cas5 | casD, cas5a, cas5d, cas5e, cas5h, cas5p, cas5t, cmx5, csc1, csy2, csf3, csm4, csx10, cmr3 |
-| cas6 | cmx6 |
-| cas6e | casE, cse3 |
-| cas6f | csy4 |
-| cas7 | casC, csa2, csd2, cse4, csh2, csp1, cst2, csm3, cmr4, csc2, csy3, csf2, csm5, cmr1, cmr6 |
+| cas4 [1] | csa1 [3] |
+| cas5 [2, 3] | casD, cas5a [3], cas5d [3], cas5e [3], cas5h [3], cas5p, cas5t [3], cmx5, csc1, csy2 [3], csf3, csm4 [3], csx10, cmr3 [3] |
+| cas6 [2, 3] | cmx6 |
+| cas6e | casE, cse3 [3] |
+| cas6f | csy4 [3] |
+| cas7 | casC, csa2 [3], csd2 [3], cse4 [3], csh2 [3], csp1, cst2 [3], csm3 [3], cmr4 [3], csc2, csy3 [3], csf2, csm5 [3], cmr1 [3], cmr6 [3] |
 | cas8 | csf1 |
-| cas8a1 | cmx1, cst1, csx8, csx13, CXXC-CXXC |
-| cas8a2 | csa4, csx9 |
-| cas8b | csh1, TM1802 |
-| cas8c | csd1, csp2 |
-| cas8e | casA, cse1 |
-| cas8f | csy1 | 
-| cas9 | csn1, csx12 | 
-| cas10 | cmr2, csm1, csx1 |
+| cas8a1 | cmx1, cst1 [3], csx8, csx13, CXXC-CXXC |
+| cas8a2 | csa4 [3], csx9 |
+| cas8b | csh1 [3], TM1802 |
+| cas8c | csd1 [3], csp2 |
+| cas8e | casA, cse1 [3] |
+| cas8f | csy1 [3] | 
+| cas9 | csn1 [3], csx12 | 
+| cas10 | cmr2 [3], csm1 [3], csx1 |
 | cas10d | csc3 | 
-| cas11 | casB, cse2, csm2, cmr5, csa5 | 
+| cas11 | casB, cse2 [3], csm2 [3], cmr5 [3], csa5 [3] | 
 | cas12a | cpf1 | 
 | cas12b | c2c1 |
 | cas12c | c2c3 |
@@ -49,9 +49,12 @@ Each name is given with the reference where it was first used.
 | cas13b | c2c4, c2c6 |
 | cas13c | c2c7 |
 | cas13d | - |
+| csn2 [3] | - |
  
 ### References
 
 | \# | Reference | DOI |
 | --- | --- | --- |
 | 1 | Jansen et al. *Identification of genes that are associated with DNA repeats in prokaryotes.* Mol. Microbio. (2002) | [10.1046/j.1365-2958.2002.02839.x](https://doi.org/10.1046/j.1365-2958.2002.02839.x) |
+| 2 | Bolotin et al. *Clustered regularly interspaced short palindrome repeats (CRISPRs) have spacers of extrachromosomal origin.* Microbiology (2005). | [10.1099/mic.0.28048-0](https://doi.org/10.1099/mic.0.28048-0) |
+| 3 | Haft et al. *A Guild of 45 CRISPR-Associated (Cas) Protein Families and Multiple CRISPR/Cas Subtypes Exist in Prokaryotic Genomes.* PLOS Comp. Bio. (2005) | [10.1371/journal.pcbi.0010060](https://doi.org/10.1371/journal.pcbi.0010060) |
