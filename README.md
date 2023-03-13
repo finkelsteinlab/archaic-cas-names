@@ -13,11 +13,11 @@ Each name is given with the reference where it was first used.
 | Current name | Previous name(s) |
 | --- | --- |
 | cas1 [1] | cas1a [2], cas1b [2] |
-| cas2 [1] | - |
+| cas2 [1] | cas6 [2] |
 | cas3 [1] | - |
 | cas4 [1] | csa1 [3] |
-| cas5 [2, 3] | casD, cas5a [3], cas5d [3], cas5e [3], cas5h [3], cas5p, cas5t [3], cmx5, csc1, csy2 [3], csf3, csm4 [3], csx10, cmr3 [3] |
-| cas6 [2, 3] | cmx6 |
+| cas5 [3] | casD, cas5a [3], cas5d [3], cas5e [3], cas5h [3], cas5p, cas5t [3], cmx5, csc1, csy2 [3], csf3, csm4 [3], csx10, cmr3 [3] |
+| cas6 [3] | cmx6 |
 | cas6e | casE, cse3 [3] |
 | cas6f | csy4 [3] |
 | cas7 | casC, csa2 [3], csd2 [3], cse4 [3], csh2 [3], csp1, cst2 [3], csm3 [3], cmr4 [3], csc2, csy3 [3], csf2, csm5 [3], cmr1 [3], cmr6 [3] |
@@ -28,8 +28,8 @@ Each name is given with the reference where it was first used.
 | cas8c | csd1 [3], csp2 |
 | cas8e | casA, cse1 [3] |
 | cas8f | csy1 [3] | 
-| cas9 | csn1 [3], csx12 | 
-| cas10 | cmr2 [3], csm1 [3], csx1 |
+| cas9 | csn1 [3], csx12, cas5 [2] | 
+| cas10 | cmr2 [3], csm1 [3], csx1 [3] |
 | cas10d | csc3 | 
 | cas11 | casB, cse2 [3], csm2 [3], cmr5 [3], csa5 [3] | 
 | cas12a | cpf1 | 
