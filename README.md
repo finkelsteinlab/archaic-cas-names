@@ -26,12 +26,12 @@ Each name is given with the reference where it was first used.
 | cas8a2 [5] | csa4 [3], csx9 [5\*] |
 | cas8b [5] | csh1 [3], TM1802 [5\*] |
 | cas8c [5] | csd1 [3], csp2 [5\*] |
-| cas8e | casA [4], cse1 [3] |
-| cas8f | csy1 [3] | 
+| cas8e [7] | casA [4], cse1 [3] |
+| cas8f [7] | csy1 [3] |
 | cas9 [5] | csn1 [3], csx12 [5\*], cas5 [2] |
 | cas10 [5] | cmr2 [3], csm1 [3], csx1 [3] |
 | cas10d [5] | csc3 [5\*] |
-| cas11 | casB [4], cse2 [3], csm2 [3], cmr5 [3], csa5 [3] | 
+| cas11 [6] | casB [4], cse2 [3], csm2 [3], cmr5 [3], csa5 [3] |
 | cas12a | cpf1 | 
 | cas12b | c2c1 |
 | cas12c | c2c3 |
@@ -66,3 +66,5 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 3 | Haft et al. *A Guild of 45 CRISPR-Associated (Cas) Protein Families and Multiple CRISPR/Cas Subtypes Exist in Prokaryotic Genomes.* PLOS Comp. Bio. (2005) | [10.1371/journal.pcbi.0010060](https://doi.org/10.1371/journal.pcbi.0010060) |
 | 4 | Brouns and Jore et al. *Small CRISPR RNAs Guide Antiviral Defense in Prokaryotes.* Science (2008) | [10.1126/science.1159689](https://doi.org/10.1126/science.1159689) |
 | 5 | Makarova et al. *Evolution and classification of the CRISPR–Cas systems.* Nat. Rev. Microbio. (2011) | [10.1038/nrmicro2577](https://doi.org/10.1038/nrmicro2577) |
+| 6 | Makarova et al. *Unification of Cas protein families and a simple scenario for the origin and evolution of CRISPR- Cas systems.* Bio. Direct (2011). | [10.1186/1745-6150-6-38](https://doi.org/10.1186/1745-6150-6-38) |
+| 7 | Makarova et al. *CRISPR-Cas Systems and Cas Protein Families.* Protein Families: Relating Protein Sequence, Structure, and Function | [10.1002/9781118743089.ch13](https://doi.org/10.1002/9781118743089.ch13) |
