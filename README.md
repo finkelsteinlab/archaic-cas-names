@@ -32,7 +32,7 @@ Each name is given with the reference where it was first used.
 | cas10 [5] | cmr2 [3], csm1 [3], csx1 [3] |
 | cas10d [5] | csc3 [5\*] |
 | cas11 [6] | casB [4], cse2 [3], csm2 [3], cmr5 [3], csa5 [3] |
-| cas12a [9] | cpf1 [8] | 
+| cas12a [9] | cpf1 [8] |
 | cas12b | c2c1 |
 | cas12c | c2c3 |
 | cas12d | casY |
@@ -62,11 +62,11 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | \# | Reference | DOI |
 | --- | --- | --- |
 | 1 | Jansen et al. *Identification of genes that are associated with DNA repeats in prokaryotes.* Mol. Microbio. (2002) | [10.1046/j.1365-2958.2002.02839.x](https://doi.org/10.1046/j.1365-2958.2002.02839.x) |
-| 2 | Bolotin et al. *Clustered regularly interspaced short palindrome repeats (CRISPRs) have spacers of extrachromosomal origin.* Microbiology (2005). | [10.1099/mic.0.28048-0](https://doi.org/10.1099/mic.0.28048-0) |
+| 2 | Bolotin et al. *Clustered regularly interspaced short palindrome repeats (CRISPRs) have spacers of extrachromosomal origin.* Microbiology (2005) | [10.1099/mic.0.28048-0](https://doi.org/10.1099/mic.0.28048-0) |
 | 3 | Haft et al. *A Guild of 45 CRISPR-Associated (Cas) Protein Families and Multiple CRISPR/Cas Subtypes Exist in Prokaryotic Genomes.* PLOS Comp. Bio. (2005) | [10.1371/journal.pcbi.0010060](https://doi.org/10.1371/journal.pcbi.0010060) |
 | 4 | Brouns and Jore et al. *Small CRISPR RNAs Guide Antiviral Defense in Prokaryotes.* Science (2008) | [10.1126/science.1159689](https://doi.org/10.1126/science.1159689) |
 | 5 | Makarova et al. *Evolution and classification of the CRISPR–Cas systems.* Nat. Rev. Microbio. (2011) | [10.1038/nrmicro2577](https://doi.org/10.1038/nrmicro2577) |
-| 6 | Makarova et al. *Unification of Cas protein families and a simple scenario for the origin and evolution of CRISPR- Cas systems.* Bio. Direct (2011). | [10.1186/1745-6150-6-38](https://doi.org/10.1186/1745-6150-6-38) |
-| 7 | Makarova et al. *CRISPR-Cas Systems and Cas Protein Families.* Protein Families: Relating Protein Sequence, Structure, and Function | [10.1002/9781118743089.ch13](https://doi.org/10.1002/9781118743089.ch13) |
-| 8 | Zetsche and Gootenberg et al. *Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System.* Cell (2015). | [10.1016/j.cell.2015.09.038](https://doi.org/10.1016/j.cell.2015.09.038) |
-| 9 | Koonin et al. *Diversity, classification and evolution of CRISPR-Cas systems* Curr. Opin. Microbiol. (2017) | [10.1016/j.mib.2017.05.008](https://doi.org/10.1016/j.mib.2017.05.008) |
+| 6 | Makarova et al. *Unification of Cas protein families and a simple scenario for the origin and evolution of CRISPR- Cas systems.* Bio. Direct (2011) | [10.1186/1745-6150-6-38](https://doi.org/10.1186/1745-6150-6-38) |
+| 7 | Makarova et al. *CRISPR-Cas Systems and Cas Protein Families.* Protein Families: Relating Protein Sequence, Structure, and Function (2013) | [10.1002/9781118743089.ch13](https://doi.org/10.1002/9781118743089.ch13) |
+| 8 | Zetsche and Gootenberg et al. *Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System.* Cell (2015) | [10.1016/j.cell.2015.09.038](https://doi.org/10.1016/j.cell.2015.09.038) |
+| 9 | Koonin et al. *Diversity, classification and evolution of CRISPR-Cas systems.* Curr. Opin. Microbiol. (2017) | [10.1016/j.mib.2017.05.008](https://doi.org/10.1016/j.mib.2017.05.008) |
