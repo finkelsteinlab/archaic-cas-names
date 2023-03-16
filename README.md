@@ -33,10 +33,10 @@ Each name is given with the reference where it was first used.
 | cas10d [5] | csc3 [5\*] |
 | cas11 [6] | casB [4], cse2 [3], csm2 [3], cmr5 [3], csa5 [3] |
 | cas12a [9] | cpf1 [8] |
-| cas12b | c2c1 |
-| cas12c | c2c3 |
-| cas12d | casY |
-| cas12e | casX |
+| cas12b [9] | c2c1 [10] |
+| cas12c [9] | c2c3 [10] |
+| cas12d [9] | casY [11] |
+| cas12e [9] | casX [11] |
 | cas12f | cas14 |
 | cas12g | - |
 | cas12h | - |
@@ -45,7 +45,7 @@ Each name is given with the reference where it was first used.
 | cas12k | c2c5, Type V-U5 |
 | cas12l | casπ |
 | cas12m | - |
-| cas13a | c2c2 |
+| cas13a | c2c2 [10] |
 | cas13b | c2c4, c2c6 |
 | cas13c | c2c7 |
 | cas13d | - |
@@ -70,3 +70,5 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 7 | Makarova et al. *CRISPR-Cas Systems and Cas Protein Families.* Protein Families: Relating Protein Sequence, Structure, and Function (2013) | [10.1002/9781118743089.ch13](https://doi.org/10.1002/9781118743089.ch13) |
 | 8 | Zetsche and Gootenberg et al. *Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System.* Cell (2015) | [10.1016/j.cell.2015.09.038](https://doi.org/10.1016/j.cell.2015.09.038) |
 | 9 | Koonin et al. *Diversity, classification and evolution of CRISPR-Cas systems.* Curr. Opin. Microbiol. (2017) | [10.1016/j.mib.2017.05.008](https://doi.org/10.1016/j.mib.2017.05.008) |
+| 10 | Shmakov and Abudayyeh et al. *Discovery and Functional Characterization of Diverse Class 2 CRISPR-Cas Systems.* Mol. Cell (2015) | [10.1016/j.molcel.2015.10.008](https://doi.org/10.1016/j.molcel.2015.10.008) |
+| 11| Burstein and Harrington et al. *New CRISPR–Cas systems from uncultivated microbes.* Nature (2016) | [10.1038/nature21059](https://doi.org/10.1038/nature21059) |
