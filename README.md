@@ -37,12 +37,12 @@ Each name is given with the reference where it was first used.
 | cas12c [9] | c2c3 [10] |
 | cas12d [9] | casY [11] |
 | cas12e [9] | casX [11] |
-| cas12f | cas14 |
-| cas12g | - |
-| cas12h | - |
-| cas12i | - |
-| cas12j | casΦ |
-| cas12k | c2c5, Type V-U5 |
+| cas12f [13] | cas14 [12] |
+| cas12g [14] | - |
+| cas12h [14] | - |
+| cas12i [14] | - |
+| cas12j [15] | casΦ [15] |
+| cas12k [17] | c2c5 [16] |
 | cas12l | casπ |
 | cas12m | - |
 | cas13a | c2c2 [10] |
@@ -71,4 +71,10 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 8 | Zetsche and Gootenberg et al. *Cpf1 Is a Single RNA-Guided Endonuclease of a Class 2 CRISPR-Cas System.* Cell (2015) | [10.1016/j.cell.2015.09.038](https://doi.org/10.1016/j.cell.2015.09.038) |
 | 9 | Koonin et al. *Diversity, classification and evolution of CRISPR-Cas systems.* Curr. Opin. Microbiol. (2017) | [10.1016/j.mib.2017.05.008](https://doi.org/10.1016/j.mib.2017.05.008) |
 | 10 | Shmakov and Abudayyeh et al. *Discovery and Functional Characterization of Diverse Class 2 CRISPR-Cas Systems.* Mol. Cell (2015) | [10.1016/j.molcel.2015.10.008](https://doi.org/10.1016/j.molcel.2015.10.008) |
-| 11| Burstein and Harrington et al. *New CRISPR–Cas systems from uncultivated microbes.* Nature (2016) | [10.1038/nature21059](https://doi.org/10.1038/nature21059) |
+| 11 | Burstein and Harrington et al. *New CRISPR–Cas systems from uncultivated microbes.* Nature (2016) | [10.1038/nature21059](https://doi.org/10.1038/nature21059) |
+| 12 | Harrington and Burstein et al. *Programmed DNA destruction byminiature CRISPR-Cas14 enzymes.* Science (2018) | [10.1126/science.aav4294](https://doi.org/10.1126/science.aav4294) |
+| 13 | Makarova et al. *Evolutionary classification of CRISPR–Cas systems: a burst of class 2 and derived variants.* Nat. Rev. Microbio. (2020) | [10.1038/s41579-019-0299-x](https://doi.org/10.1038/s41579-019-0299-x) |
+| 14 | Yan and Hunnewell et al. *Functionally diverse type V CRISPR-Cas systems.* Science (2018) | [10.1126/science.aav7271](https://doi.org/10.1126/science.aav7271) |
+| 15 |  Al-Shayeb and Rohan Sachdeva et al. *Clades of huge phages from across Earth's ecosystems.* Nature (2020) | [10.1038/s41586-020-2007-4](https://doi.org/10.1038/s41586-020-2007-4) |
+| 16 | Shmakov et al. *Diversity and evolution of class 2 CRISPR–Cas systems.* Nat. Rev. Microbio. (2017) | [10.1038/nrmicro.2016.184](https://doi.org/10.1038/nrmicro.2016.184) |
+| 17 | Strecker et al. *RNA-guided DNA insertion with CRISPR-associated transposases.* Science (2019) | [10.1126/science.aax9181](https://doi.org/10.1126/science.aax9181) |
