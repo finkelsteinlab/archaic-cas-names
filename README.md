@@ -46,9 +46,9 @@ Each name is given with the reference where it was first used.
 | cas12l\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m | - |
 | cas13a | c2c2 [10] |
-| cas13b | c2c4, c2c6 |
-| cas13c | c2c7 |
-| cas13d | - |
+| cas13b [21] |  |
+| cas13c |  |
+| cas13d |  |
 | csn2 [3] | - |
 
 \* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
@@ -83,3 +83,4 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 18 | Goltsman et al. *Novel Type V-A CRISPR Effectors Are Active Nucleases with Expanded Targeting Capabilities.* CRISPR Journal (2020) | [10.1089/crispr.2020.0043](https://doi.org/10.1089/crispr.2020.0043) |
 | 19 | Urbaitis, Gasiunas, and Young et al. *A new family of CRISPR-type V nucleases with C-rich PAM recognition.* EMBO Reports (2022) | [10.15252/embr.202255481](https://doi.org/10.15252/embr.202255481) |
 | 20 | Sun, Li, Chen and Zhang et al. *The compact Casπ (Cas12l) ‘bracelet’ provides a unique structural platform for DNA manipulation.* Cell Research (2023) | [10.1038/s41422-022-00771-2](https://doi.org/10.1038/s41422-022-00771-2) |
+| 21 | Smargon, Cox, and Pyzocha et al. *Cas13b Is a Type VI-B CRISPR-Associated RNA-Guided RNase Differentially Regulated by Accessory Proteins Csx27 and Csx28.* Mol. Cell (2017). | [10.1016/j.molcel.2016.12.023](https://doi.org/10.1016/j.molcel.2016.12.023) |
