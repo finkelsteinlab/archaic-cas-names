@@ -43,13 +43,15 @@ Each name is given with the reference where it was first used.
 | cas12i [14] | - |
 | cas12j [15] | casΦ [15] |
 | cas12k [17] | c2c5 [16] |
-| cas12l | casπ |
+| cas12l\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m | - |
 | cas13a | c2c2 [10] |
 | cas13b | c2c4, c2c6 |
 | cas13c | c2c7 |
 | cas13d | - |
 | csn2 [3] | - |
+
+\* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
 
 ### Current name not yet found (by us)
 
@@ -78,3 +80,6 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 15 | Al-Shayeb and Sachdeva et al. *Clades of huge phages from across Earth's ecosystems.* Nature (2020) | [10.1038/s41586-020-2007-4](https://doi.org/10.1038/s41586-020-2007-4) |
 | 16 | Shmakov et al. *Diversity and evolution of class 2 CRISPR–Cas systems.* Nat. Rev. Microbio. (2017) | [10.1038/nrmicro.2016.184](https://doi.org/10.1038/nrmicro.2016.184) |
 | 17 | Strecker et al. *RNA-guided DNA insertion with CRISPR-associated transposases.* Science (2019) | [10.1126/science.aax9181](https://doi.org/10.1126/science.aax9181) |
+| 18 | Goltsman et al. *Novel Type V-A CRISPR Effectors Are Active Nucleases with Expanded Targeting Capabilities.* CRISPR Journal (2020) | [10.1089/crispr.2020.0043](https://doi.org/10.1089/crispr.2020.0043) |
+| 19 | Urbaitis, Gasiunas, and Young et al. *A new family of CRISPR-type V nucleases with C-rich PAM recognition.* EMBO Reports (2022) | [10.15252/embr.202255481](https://doi.org/10.15252/embr.202255481) |
+| 20 | Sun, Li, Chen and Zhang et al. *The compact Casπ (Cas12l) ‘bracelet’ provides a unique structural platform for DNA manipulation.* Cell Research (2023) | [10.1038/s41422-022-00771-2](https://doi.org/10.1038/s41422-022-00771-2) |
