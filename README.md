@@ -46,12 +46,13 @@ Each name is given with the reference where it was first used.
 | cas12l\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m [21] | - |
 | cas13a [16] | C2c2 [10] |
-| cas13b [16] | C2c6 [?] |
-| cas13c [16] | C2c7 [?] |
+| cas13b [16] | C2c6 [16] \*\* |
+| cas13c [16] | C2c7 [16] \*\* |
 | cas13d |  |
 | csn2 [3] | - |
 
 \* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
+\*\* We are unable to find any published work that uses these designations, but they are still cited as the archaic names of these proteins.
 
 ### Current name not yet found (by us)
 
