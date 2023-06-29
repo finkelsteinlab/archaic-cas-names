@@ -60,7 +60,6 @@ From [3]: csx2 csx3 csx4 csx5 csx6 csx7
 From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
  
 ### References
-\* Attributed to Haft et al. (2005), but appears to be the first usage.
 
 | \# | Reference | DOI |
 | --- | --- | --- |
