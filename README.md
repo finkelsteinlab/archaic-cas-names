@@ -48,7 +48,7 @@ Each name is given with the reference where it was first used.
 | cas13a [16] | C2c2 [10] |
 | cas13b [16] | C2c6 [16] \*\* |
 | cas13c [16] | C2c7 [16] \*\* |
-| cas13d |  |
+| cas13d [22, 23] | - |
 | csn2 [3] | - |
 
 \* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
@@ -85,3 +85,5 @@ From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
 | 19 | Urbaitis, Gasiunas, and Young et al. *A new family of CRISPR-type V nucleases with C-rich PAM recognition.* EMBO Reports (2022) | [10.15252/embr.202255481](https://doi.org/10.15252/embr.202255481) |
 | 20 | Sun, Li, Chen and Zhang et al. *The compact Casπ (Cas12l) ‘bracelet’ provides a unique structural platform for DNA manipulation.* Cell Research (2023) | [10.1038/s41422-022-00771-2](https://doi.org/10.1038/s41422-022-00771-2) |
 | 21 | Wu and Mohanraju et al. *The miniature CRISPR-Cas12m effector binds DNA to block transcription.* Mol. Cell (2022) | [10.1016/j.molcel.2022.11.003](https://doi.org/10.1016/j.molcel.2022.11.003) |
+| 22 | Yan, Cheng and Scott et al. *Cas13d Is a Compact RNA-Targeting Type VI CRISPR Effector Positively Modulated by a WYL-Domain-Containing Accessory Protein.* Mol. Cell (2018) | [10.1016/j.molcel.2018.02.028](https://doi.org/10.1016/j.molcel.2018.02.028) |
+| 23 | Konermann et al. *Transcriptome Engineering with RNA-Targeting Type VI-D CRISPR Effectors.* Cell (2018) | [10.1016/j.cell.2018.02.033](https://doi.org/10.1016/j.cell.2018.02.033) |
