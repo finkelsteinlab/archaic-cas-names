@@ -51,7 +51,7 @@ Each name is given with the reference where it was first used.
 | cas13d [22, 23] | - |
 | csn2 [3] | - |
 
-\* We are unable to find any published work that uses these designations, but they are cited as the archaic names of these proteins.
+\* We are unable to find any published work that uses these designations, but they are cited as the archaic names of these proteins.  
 \*\* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
 
 ### Current name not yet found (by us)
