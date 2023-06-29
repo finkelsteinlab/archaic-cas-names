@@ -41,7 +41,7 @@ Each name is given with the reference where it was first used.
 | cas12g [14] | - |
 | cas12h [14] | - |
 | cas12i [14] | - |
-| cas12j [15] | casΦ [15] |
+| cas12j [15] | casΦ/casphi [15] |
 | cas12k [17] | c2c5 [16] |
 | cas12l\*\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m [21] | - |
