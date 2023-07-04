@@ -49,16 +49,10 @@ Each name is given with the reference where it was first used.
 | cas13b [16] | C2c6 [16\*]  |
 | cas13c [16] | C2c7 [16\*] |
 | cas13d [22, 23] | - |
-| csn2 [3] | - |
 
-\* We are unable to find any published work that uses these designations, but they are cited as the archaic names of these proteins.  
+\* We are unable to find any published work that uses these designations, but they are cited as the archaic names of these genes.  
 \*\* Three groups have independently conferred the designation "cas12l" to a set of genes, with no apparent connection.
 
-### Current name not yet found (by us)
-
-From [3]: csx2 csx3 csx4 csx5 csx6 csx7
-From [5]: csb1 csb2 csb3 csx17 csx14 csx16 csf4 csm6 csaX csa3 csx15
- 
 ### References
 
 | \# | Reference | DOI |
