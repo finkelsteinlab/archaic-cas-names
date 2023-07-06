@@ -45,6 +45,7 @@ Each name is given with the reference where it was first used.
 | cas12k [17] | c2c5 [16] |
 | cas12l\*\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m [21] | - |
+| cas12n [24] | - |
 | cas13a [16] | C2c2 [10] |
 | cas13b [16] | C2c6 [16\*]  |
 | cas13c [16] | C2c7 [16\*] |
@@ -80,3 +81,4 @@ Each name is given with the reference where it was first used.
 | 21 | Wu and Mohanraju et al. *The miniature CRISPR-Cas12m effector binds DNA to block transcription.* Mol. Cell (2022) | [10.1016/j.molcel.2022.11.003](https://doi.org/10.1016/j.molcel.2022.11.003) |
 | 22 | Yan, Cheng and Scott et al. *Cas13d Is a Compact RNA-Targeting Type VI CRISPR Effector Positively Modulated by a WYL-Domain-Containing Accessory Protein.* Mol. Cell (2018) | [10.1016/j.molcel.2018.02.028](https://doi.org/10.1016/j.molcel.2018.02.028) |
 | 23 | Konermann et al. *Transcriptome Engineering with RNA-Targeting Type VI-D CRISPR Effectors.* Cell (2018) | [10.1016/j.cell.2018.02.033](https://doi.org/10.1016/j.cell.2018.02.033) |
+| 24 | Chen and Ma et al. *Cas12n nucleases, early evolutionary intermediates of type V CRISPR, comprise a distinct family of miniature genome editors.* Mol. Cell (2023) | [10.1016/j.molcel.2023.06.014](https://doi.org/10.1016/j.molcel.2023.06.014) |
