@@ -1,6 +1,6 @@
 # Archaic cas names
 
-Many CRISPR-associated genes have been renamed, sometimes more than once. Sequences databases often retain an archaic name, making searching for particular genes tricky. This repo exists to keep track of the various alternatives for each *cas* gene. In cases where there is no consensus in the community, this database will prefer the more consistent naming scheme. 
+Many CRISPR-associated genes have been renamed, sometimes more than once. Sequence databases often retain archaic names, making it tricky to search for particular genes. This repo exists to keep track of the various alternatives for each *cas* gene. In cases where there is no consensus in the community, this database will prefer the more consistent naming scheme. 
 
 ### Contributing
 
