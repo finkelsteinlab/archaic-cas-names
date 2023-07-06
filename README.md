@@ -46,9 +46,9 @@ Each name is given with the reference where it was first used.
 | cas12l\*\* [18, 19, 20] | casπ/caspi [20] |
 | cas12m [21] | - |
 | cas12n [24] | - |
-| cas13a [16] | C2c2 [10] |
-| cas13b [16] | C2c6 [16\*]  |
-| cas13c [16] | C2c7 [16\*] |
+| cas13a [16] | c2c2 [10] |
+| cas13b [16] | c2c6 [16\*]  |
+| cas13c [16] | c2c7 [16\*] |
 | cas13d [22, 23] | - |
 
 \* We are unable to find any published work that uses these designations, but they are cited as the archaic names of these genes.  
